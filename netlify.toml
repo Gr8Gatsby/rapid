@@ -1,0 +1,5 @@
+[build]
+  # This command builds the site
+  command = "yarn run build"
+[functions]
+  directory = "netlify/functions"
