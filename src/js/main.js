@@ -1,7 +1,7 @@
 /* TODO: add code */
 
 function getRandomFact() {
-    fetch("https://numbersapi.p.rapidapi.com/random/trivia?min=1&max=25&fragment=true&json=true", {
+    fetch("https://numbersapi.p.rapidapi.com/random/trivia?min=1&max=44&fragment=true&json=true", {
         "method": "GET",
         "headers": {
             "x-rapidapi-host": "numbersapi.p.rapidapi.com",

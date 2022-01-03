@@ -1,7 +1,11 @@
 h1[name=number]{
-    color: rgb(187, 245, 80);
+    color: #E2C044;
 }
 
 h4[name=text]{
-    color: rgb(58, 56, 57);
+    color: #E7EBEE;
+}
+
+html{
+    background-color: #2E5266;
 }
